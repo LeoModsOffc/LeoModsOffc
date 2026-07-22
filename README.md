@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=LeoMods&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bot%20Developer%20%7C%20Beginner%20%26%20Terus%20Belajar&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=LeoMods&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bot%20Developer%20%7C%20Beginner%2C%20Terus%20Belajar&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/leomodsoffc">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Halo%2C+saya+LeoMods+%F0%9F%91%8B;Beginner+WhatsApp+%26+Telegram+Bot+Developer;Belajar+JS+%7C+PHP+%7C+Python;Terus+Belajar%2C+Terus+Berkembang" alt="Typing SVG" />
@@ -41,7 +41,7 @@ Untuk sisi web, saya bikin website ringan — biasanya portofolio pribadi atau l
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-60%25-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Website Simple](https://img.shields.io/badge/Website%20Simple-50%25-orange?style=for-the-badge&logo=html5&logoColor=white)
 
-<sub>*Persentase di atas cuma gambaran semangat belajar, bukan angka pasti 😄*</sub>
+<sub>*Persentase di atas cuma gambaran semangat belajar, bukan angka pasti*</sub>
 
 </div>
 
