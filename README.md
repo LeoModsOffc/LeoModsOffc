@@ -96,8 +96,6 @@ Untuk sisi web, saya bikin website ringan — biasanya portofolio pribadi atau l
 
 <div align="center">
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-15%2B-9370DB?style=for-the-badge&logo=github&logoColor=white)
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomodsoffc&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
