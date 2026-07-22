@@ -14,12 +14,14 @@
 
 ## 🧬 Tentang Saya
 
-```yaml
-nama: LeoMods
-fokus: WhatsApp Bot API • Telegram Bot Framework • Website Development
-bahasa: Bahasa Indonesia 🇮🇩
-status: Beginner developer, masih terus belajar
-motto: "Kalau bisa diotomatisasi, kenapa dikerjain manual?"
+```js
+{
+   nama: LeoMods
+   fokus: WhatsApp Bot API • Telegram Bot Framework • Website Development
+   bahasa: Bahasa Indonesia 🇮🇩
+   status: Beginner developer, masih terus belajar
+   motto: "Kalau bisa diotomatisasi, kenapa dikerjain manual?"
+}
 ```
 
 Saya adalah developer pemula yang sedang menekuni dunia bot automation dan pengembangan web. Belum lama terjun ke sini, tapi belajarnya serius dan konsisten — ngoprek project kecil-kecilan setiap hari sampai paham betul cara kerjanya. Berikut area yang lagi saya dalami:
