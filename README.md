@@ -16,7 +16,7 @@
 
 ```js
 {
-   nama: LeoMods
+   nama: LeoMods Official
    fokus: WhatsApp Bot API • Telegram Bot Framework • Website Development
    bahasa: Bahasa Indonesia 🇮🇩
    status: Beginner developer, masih terus belajar
